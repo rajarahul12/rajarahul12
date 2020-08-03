@@ -2,15 +2,14 @@
 
 ## I'm a Developer and a B.Tech graduate
 - 🔭 I’m currently working as a Software Developer at IBM.
-- 👨🏻‍💻 I love working on JavaScript and React.js
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👨🏻‍💻 I love working on JavaScript and React.js.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://raja-rahul.web.app/" target="_blank"><img align="left" alt="raja-rahul.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://twitter.com/RajaRahul123" target="__blank"><img align="left" alt="RajaRahul123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/raja-rahul-87a172141/" target="__blank"><img align="left" alt="raja-rahul-87a172141 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/raja_rahul_maddula/" target="__blank"><img align="left" alt="raja_rahul_maddula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
@@ -34,9 +33,15 @@
 <br />
 <br />
 
+---
+
 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+<img align="left" alt="Raja Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajarahul12&show_icons=true&hide_border=true" />
 
 [website]: https://raja-rahul.web.app/
 [twitter]: https://twitter.com/RajaRahul123
