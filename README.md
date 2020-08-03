@@ -34,9 +34,9 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📊 This week I spent my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://raja-rahul.web.app/
 [twitter]: https://twitter.com/RajaRahul123
