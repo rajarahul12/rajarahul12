@@ -1,12 +1,14 @@
 ### Hi there, I'm [Raja Rahul][website] 👋
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarahul12&label=Views&color=blue&style=plastic" alt="rajarahul12" /> </p> -->
+
 ## I'm a Developer and a B.Tech graduate
 - 🔭 I’m currently working as a Software Developer at IBM.
 - 👨🏻‍💻 I love working on JavaScript and React.js.
 
 ### Connect with me:
 
-<a href="https://raja-rahul.web.app/" target="_blank"><img align="left" alt="raja-rahul.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://raja-rahul.web.app/" target="__blank"><img align="left" alt="raja-rahul.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/RajaRahul123" target="__blank"><img align="left" alt="RajaRahul123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/raja-rahul-87a172141/" target="__blank"><img align="left" alt="raja-rahul-87a172141 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/raja_rahul_maddula/" target="__blank"><img align="left" alt="raja_rahul_maddula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
@@ -44,7 +46,9 @@ No Activity tracked this Week
 
 ---
 
-<img align="left" alt="Raja Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajarahul12&show_icons=true&hide_border=true" />
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarahul12&theme=dark&hide_langs_below=1" /></a>
+
+<a><img align="center" alt="Raja Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajarahul12&count_private=true&show_icons=true&hide_border=true&theme=dark" /></a>
 
 [website]: https://raja-rahul.web.app/
 [twitter]: https://twitter.com/RajaRahul123
