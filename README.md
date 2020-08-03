@@ -34,6 +34,10 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://raja-rahul.web.app/
 [twitter]: https://twitter.com/RajaRahul123
 [instagram]: https://www.instagram.com/raja_rahul_maddula/
