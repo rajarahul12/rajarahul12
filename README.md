@@ -37,9 +37,8 @@
 
 ---
 
-<!-- MEDIUM::START -->
-<!-- MEDIUM::END -->
-
+<!-- <!-- MEDIUM::START -->
+<!-- <!-- MEDIUM::END -->
 ---
 
 📊 This week I spent my time on
