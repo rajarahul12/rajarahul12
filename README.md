@@ -54,6 +54,12 @@ Objective-C   1 hr 16 mins    █▒░░░░░░░░░░░░░░�
 
 ---
 
+**Profile Views**
+
+![Visitor Count](https://profile-counter.glitch.me/{rajarahul12}/count.svg)
+
+---
+
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarahul12&theme=dark&hide_langs_below=1" /></a>
 
 <a><img align="left" alt="Raja Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajarahul12&count_private=true&show_icons=true&hide_border=true&theme=dark" /></a>
