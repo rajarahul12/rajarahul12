@@ -66,7 +66,7 @@ Swift        23 mins         █▒░░░░░░░░░░░░░░░
 <a><img align="left" alt="Raja Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajarahul12&count_private=true&show_icons=true&hide_border=true&theme=dark" /></a>
 
 [website]: https://raja-rahul.web.app/
-[twitter]: https://twitter.com/RajaRahul123
+[twitter]: https://twitter.com/coder_rahul
 [instagram]: https://www.instagram.com/raja_rahul_maddula/
 [linkedin]: https://www.linkedin.com/in/raja-rahul-87a172141/
 [medium]: https://medium.com/@maddula.rajarahul
