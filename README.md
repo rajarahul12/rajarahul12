@@ -6,6 +6,7 @@
 - 🔭 I’m currently working as a Software Developer.
 - 👨🏻‍💻 I love working on JavaScript and React.js.
 
+<!--
 ### Connect with me:
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -13,6 +14,8 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][medium]
 [<img height="30" src = "https://img.shields.io/badge/Instagram-da2f76.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+
+-->
 <br />
 <hr />
 
