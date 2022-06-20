@@ -1,4 +1,4 @@
-### Hello there, I'm [Raja Rahul][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hello there, I'm [Raja Rahul][website]
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarahul12&label=Views&color=blue&style=plastic" alt="rajarahul12" /> </p> -->
 
