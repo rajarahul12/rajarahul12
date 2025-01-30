@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarahul12&label=Views&color=blue&style=plastic" alt="rajarahul12" /> </p> -->
 
 ## I'm a Developer and a B.Tech graduate
-- 🔭 I’m currently working as a Software Developer.
+- 🔭 I’m currently working as a Staff Software Engineer.
 - 👨🏻‍💻 I love working on JavaScript and React.js.
 
 <!--
